@@ -1,2 +1,2 @@
 # credential_harvester
-Program to harvest all stored credentials from a windows machine
+Simple program to harvest all stored credentials from a windows machine
